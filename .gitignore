@@ -65,7 +65,7 @@ output/
 material/
 
 # Don't add new definitions.
-definitions/
+# definitions/
 
 # Ignore lock.
 package-lock.json
