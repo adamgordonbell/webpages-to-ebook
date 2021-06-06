@@ -21,7 +21,7 @@ content:
 - https://en.wikipedia.org/wiki/Self-modifying_code
 - https://en.wikipedia.org/wiki/Undefined_behavior
 - https://en.wikipedia.org/wiki/Hungarian_notation
-- https://www.globalnerdy.com/wordpress/wp-content/uploads/2014/06/poopy-swift-code-example.jpg
+# - https://www.globalnerdy.com/wordpress/wp-content/uploads/2014/06/poopy-swift-code-example.jpg
 - https://en.wikipedia.org/wiki/Web_beacon
 - https://en.wikipedia.org/wiki/Heisenbug
 - http://wiki.c2.com/?PerlGolf
@@ -63,7 +63,7 @@ content:
 - http://matt.might.net/articles/c++-template-meta-programming-with-lambda-calculus/
 - https://en.wikipedia.org/wiki/Lp0_on_fire
 - https://eev.ee/blog/2012/04/09/php-a-fractal-of-bad-design/
-- https://developer.mozilla.org/en-US/docs/Web/SVG/Element/script
+# - https://developer.mozilla.org/en-US/docs/Web/SVG/Element/script
 - https://stackoverflow.com/a/76801
 - https://github.com/ValveSoftware/steam-for-linux/issues/3671
 - https://github.com/osnr/horrifying-pdf-experiments
@@ -185,7 +185,7 @@ content:
 - http://prize.hutter1.net/
 - https://en.wikipedia.org/wiki/User:ClueBot_NG
 - https://www.dampfkraft.com/posuto.html
-- https://www.usenix.org/legacy/events/woot11/tech/final_files/Goodspeed.pdf
+# - https://www.usenix.org/legacy/events/woot11/tech/final_files/Goodspeed.pdf
 - https://www.linusakesson.net/scene/safevsp/index.php
 - https://devblogs.microsoft.com/oldnewthing/20190731-00/?p=102743
 - https://folk.idi.ntnu.no/agnar/it272/pekere/local/newsci/primordial.html

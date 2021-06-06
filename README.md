@@ -43,3 +43,10 @@ Create an EPUB from a list of URLs. Standing on the shoulders of
 
 Also some structuring with raw HTML is possible, check 
 [`definitions/library_of_scott_alexandria.yml`](definitions/library_of_scott_alexandria.yml) and in there `raw:` and `tags:/title:`.
+
+
+## Create Mobi
+First `brew install calibre` and then:
+```
+ebook-convert ./output/epub/test_epub.epub ./output/mobi/test_epub.mobi
+```
