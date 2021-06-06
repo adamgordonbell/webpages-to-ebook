@@ -188,7 +188,7 @@ function createEpub() {
 
   // Create EPUB.
   console.log('Creating EPUB...')
-  child_process.spawnSync( book.commands.pandoc, [ '--from', 'html', '-o', './output/epub/' + book.shortname + '.epub', '--epub-metadata', './output/meta/' + book.shortname + '.xml' ].concat(filepaths) );
+  child_process.spawnSync( book.commands.pandoc, [ '--from', 'html', '-o', './output/epub/' + book.shortname + '.epub', '--epub-metadata', './output/meta/' + book.shortname + '.xml' ,'--toc-depth', '2', '--lua-filter', './pandoc/pagebreak.lua'].concat(filepaths), { stdio: 'inherit'} );
   // TODO:
   // Output exit status.
   console.log('Done.')
