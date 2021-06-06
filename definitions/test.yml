@@ -1,0 +1,33 @@
+shortname: test_epub
+metadata:
+  dc:
+    title: Test Epub
+    creator: Blackle Mori
+    language: en-US
+    source: https://suricrasia.online/iceberg/
+tags:
+  title: h1
+content:
+- raw: '<h1>Above the iceberg</h1>'
+- https://en.wikipedia.org/wiki/Year_2000_problem
+- raw: '<h1>On the iceberg</h1>'
+- https://bitsofco.de/javascript-typeof/#whatsthetypeofnan
+- raw: '<h1>Below the water</h1>'
+- https://en.wikipedia.org/wiki/EICAR_test_file
+- raw: '<h1>Middle of the iceberg</h1>'
+- https://en.wikipedia.org/wiki/TrueType#Hinting_language
+- raw: '<h1>Bottom of the iceberg</h1>'
+- https://www.gayle.com/blog/2015/5/31/the-problem-with-the-fizzbuzz-problem
+- https://en.wikipedia.org/wiki/Setjmp.h
+- https://suricrasia.online/unfiction/basilisk/
+- raw: '<h1>Below the iceberg</h1>'
+- http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.687.9985&rep=rep1&type=pdf
+- https://perlmonks.org/?node_id=663393
+- https://vaibhavsagar.com/blog/2019/09/08/popcount/
+- raw: '<h1>Deep Water</h1>'
+- https://en.wikipedia.org/wiki/Coordinating_Committee_for_Multilateral_Export_Controls#Legacy
+- https://en.wikipedia.org/wiki/Quine_(computing)#Radiation-hardened
+- https://www.rogdham.net/2017/03/12/gif-md5-hashquine.en
+- raw: '<h1>The Abyss</h1>'
+- https://en.wikipedia.org/wiki/UTF-EBCDIC
+- https://www.pouet.net/prod.php?which=4770
