@@ -101,7 +101,7 @@ function ensureRawFile(url, hash) {
   // TODO: Deprecated.
   if (!fs.existsSync('./output/html/' + hash + '.html')) {
     console.log(hash + "\t" + 'downloading');
-    const ret = child_process.spawnSync( book.commands.wget, [ '-O', './output/html/' + hash + '.html', '--convert-links', url ] ); 
+    ret = child_process.spawnSync( book.commands.wget, [ '-T','15', '-O', './output/html/' + hash + '.html', '--convert-links', url ]); 
     if (ret.status === 0) {
       console.log(hash + "\t" + 'downloaded successfully');
     }
